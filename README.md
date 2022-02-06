@@ -1,5 +1,6 @@
-<p style="font-family: arial; font-size:27pt; color:black>, font-style:bold"> CHRISTY FIERROS </p>
+<p style="font-family: arial; font-size:27pt; color:black, font-style:bold"> CHRISTY FIERROS </p>
 
+<p style="color:black">This is another sentence.</p>
 
 [Link](/Users/cfierros/Documents/Github/profilepage/MonsoonSunsetcopy.JPG) and ![Image](src)
 
@@ -15,6 +16,8 @@ I have been fascinated with the natural world throughout my life and my curiosit
 I received my B.A. in Environmental Studies and B.S. in Geography from the University of Arizona.
 
 Interested in working in the nexus of science, justice, and sustainability with the goal of having a career through which I can make a positive impact for our Earth.
+
+ <button type="button"> View my CV </button> 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
