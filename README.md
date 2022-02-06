@@ -1,6 +1,7 @@
 <p style="font-family: arial; font-size:27pt; font-style:bold; color:black"> CHRISTY FIERROS </p>
 
-[Link]() and ![Image](/Users/cfierros/Documents/Github/profilepage/MonsoonSunsetcopy.JPG)
+![](images/MonsoonSunsetcopy.JPG)
+[Link]() and 
 
 I am a masters student studying Land Use and Environmental Planning at the University of North Carolina at Chapel Hill. My interests lie at the intersection of environmental justice, 
 
