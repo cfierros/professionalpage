@@ -1,7 +1,5 @@
 <p style="font-family: arial; font-size:27pt; font-style:bold; color:black"> CHRISTY FIERROS </p>
 
-<p style="color:black">This is another sentence.</p>
-
 [Link]() and ![Image](/Users/cfierros/Documents/Github/profilepage/MonsoonSunsetcopy.JPG)
 
 I am a masters student studying Land Use and Environmental Planning at the University of North Carolina at Chapel Hill. My interests lie at the intersection of environmental justice, 
