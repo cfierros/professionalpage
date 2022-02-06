@@ -1,4 +1,4 @@
-<p style="font-family: arial; font-size:27pt; class = "black", font-style:bold"> C H R I S T Y   F I E R R O S </p>
+<p style="font-family: arial; font-size:27pt; color:black, font-style:bold"> C H R I S T Y    F I E R R O S </p>
 
 
 [Link](url) and ![Image](src)
