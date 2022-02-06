@@ -1,5 +1,4 @@
-<p style="font-family: times, serif; font-size:30pt; font-style:italic">
-    ## CHRISTY FIERROS </p>
+<p style="font-family: arial; font-size:35pt; font-color: black, font-style:bold"> C H R I S T Y   F I E R R O S </p>
 
 
 [Link](url) and ![Image](src)
