@@ -1,4 +1,6 @@
-## CHRISTY FIERROS 
+<p style="font-family: times, serif; font-size:30pt; font-style:italic">
+    ## CHRISTY FIERROS </p>
+
 
 [Link](url) and ![Image](src)
 
