@@ -1,4 +1,4 @@
-<p style="font-family: arial; font-size:35pt; font-color: black, font-style:bold"> C H R I S T Y   F I E R R O S </p>
+<p style="font-family: arial; font-size:27pt; class = "black", font-style:bold"> C H R I S T Y   F I E R R O S </p>
 
 
 [Link](url) and ![Image](src)
@@ -14,7 +14,7 @@ I have been fascinated with the natural world throughout my life and my curiosit
 
 I received my B.A. in Environmental Studies and B.S. in Geography from the University of Arizona.
 
-You can use the [editor on GitHub](https://github.com/cfierros/professionalpage/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Interested in working in the nexus of science, justice, and sustainability with the goal of having a career through which I can make a positive impact for our Earth.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
