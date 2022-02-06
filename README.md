@@ -1,21 +1,17 @@
-<p style="font-family: arial; font-size:27pt; color:black, font-style:bold"> CHRISTY FIERROS </p>
+<p style="font-family: arial; font-size:27pt; font-style:bold; color:black"> CHRISTY FIERROS </p>
 
 <p style="color:black">This is another sentence.</p>
 
-[Link](/Users/cfierros/Documents/Github/profilepage/MonsoonSunsetcopy.JPG) and ![Image](src)
+[Link]() and ![Image](/Users/cfierros/Documents/Github/profilepage/MonsoonSunsetcopy.JPG)
 
 I am a masters student studying Land Use and Environmental Planning at the University of North Carolina at Chapel Hill. My interests lie at the intersection of environmental justice, 
 
 Currently, I work as a research assistant on a project aimed to better 
 
-I have experience working with various organizations; ranging from local governments as a GIS cartographer, universities, non-profits as an AmeriCorps garden and food educator, and more.
- 
-
-I have been fascinated with the natural world throughout my life and my curiosity has centered around understanding the socio-economic and political forces that shape environmental problems. 
+I have experience working with various organizations; ranging from local governments as a GIS cartographer, universities, non-profits as an AmeriCorps garden and food educator, and more. I have been fascinated with the natural world throughout my life and my curiosity has centered around understanding the socio-economic and political forces that shape environmental problems. My goal is to have a career in which I can make a positive impact impact on communities and 
 
 I received my B.A. in Environmental Studies and B.S. in Geography from the University of Arizona.
 
-Interested in working in the nexus of science, justice, and sustainability with the goal of having a career through which I can make a positive impact for our Earth.
 
  <button type="button"> View my CV </button> 
 
