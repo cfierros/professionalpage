@@ -1,4 +1,17 @@
-## Christy Fierros 
+### CHRISTY FIERROS 
+
+[Link](url) and ![Image](src)
+
+I am a masters student studying Land Use and Environmental Planning at the University of North Carolina at Chapel Hill. My interests lie at the intersection of environmental justice, 
+
+Currently, I work as a research assistant on a project aimed to better 
+
+I have experience working with various organizations; ranging from local governments as a GIS cartographer, universities, non-profits as an AmeriCorps garden and food educator, and more.
+ 
+
+I have been fascinated with the natural world throughout my life and my curiosity has centered around understanding the socio-economic and political forces that shape environmental problems. 
+
+I received my B.A. in Environmental Studies and B.S. in Geography from the University of Arizona.
 
 You can use the [editor on GitHub](https://github.com/cfierros/professionalpage/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,7 +36,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
